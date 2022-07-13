@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm _punwai_. I'm interested in cryptography and computer systems.
-
+<img src="./rust-uni.svg" width="300px">
 <img src="./rust-urchin.svg" width="300px">
