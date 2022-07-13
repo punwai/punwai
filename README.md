@@ -1,4 +1,4 @@
-### Hi there 👋
+### Morning!
 
 <!--
 **punwai/punwai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi all, I'm Pun.
-I'm interested in cryptography and computer systems.
+I'm punwai. I'm interested in cryptography and computer systems.
 
 <img src="./rust-urchin.svg" width="300px">
