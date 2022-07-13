@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 
 Hi all, I'm Pun.
 I'm interested in cryptography and computer systems.
-![Alt text](./rust-urchin.svg)
 <img src="./rust-urchin.svg" width="300px">
