@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm punwai. I'm interested in cryptography and computer systems.
+I'm _punwai_. I'm interested in cryptography and computer systems.
 
 <img src="./rust-urchin.svg" width="300px">
