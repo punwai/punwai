@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 Hi all, I'm Pun.
 I'm interested in cryptography and computer systems.
+
 <img src="./rust-urchin.svg" width="300px">
