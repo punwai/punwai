@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px">
+<img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px">
 
-Welcome
+Omaewa mou shinderu
 
-<img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px">
+<img src="./rustacean-flat-gesture.svg" width="25px"><img src="./rust-urchin.svg" width="25px"><img src="./rustacean-flat-gesture.svg" width="25px">
 
